@@ -1,0 +1,21 @@
+.cart-item {
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.cart-item__name {
+  margin-right: 35px;
+  vertical-align: middle;
+}
+
+.cart-item__price {
+  font-weight: bold;
+}
+.cart-item .btn-custom{
+  margin-left: 15px;
+  width: auto;
+  padding: 5px;
+  line-height: 1;
+  font-size: 12px;
+}
